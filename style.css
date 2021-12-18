@@ -76,6 +76,7 @@ footer a {
   border:  #024e76 3px solid;
   width: 40%;
   margin: 3.5%;
+  border-radius: 10px;
 }
 .hero-cta {
   width: 35%;
